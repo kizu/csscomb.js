@@ -15,6 +15,7 @@
     "quotes": "single",
     "remove-empty-rulesets": true,
     "rule-indent": "    ",
+    "space-after-comma": " ",
     "stick-brace": "\n",
     "strip-spaces": true,
     "unitless-zero": true,
